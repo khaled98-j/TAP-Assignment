@@ -7,7 +7,7 @@ var answer = function (nums, target) {
   }
 };
 
-nums = [2, 7, 11, 15];
-target = 9;
+//nums = [2, 7, 11, 15];
+//target = 9;
 
-console.log(answer(nums,target));
+//console.log(answer(nums,target));
